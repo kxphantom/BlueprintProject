@@ -1,2 +1,4 @@
 ,Type,Montage,PlayRatio,StartSectionName,CanMove,Attack,Stop,Effect,EffectLocation,EffectScale,EffectRotation,CameraShake,SoundCue
-1,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_Katana_S1_Attack01_Montage.Frank_RPG_Katana_S1_Attack01_Montage',1,,FALSE,30,0,,"(X=0,Y=0,Z=-75)","(X=0.5,Y=0.5,Z=1)","(Pitch=0,Yaw=0,Roll=0)",,
+1,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_Katana_S2_Combo02_01_Montage.Frank_RPG_Katana_S2_Combo02_01_Montage',1,,FALSE,30,0,,"(X=0,Y=0,Z=-75)","(X=0.5,Y=0.5,Z=1)","(Pitch=0,Yaw=0,Roll=0)",,
+2,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_Katana_S2_Combo02_02_Montage.Frank_RPG_Katana_S2_Combo02_02_Montage',1,,FALSE,30,0,,"(X=0,Y=0,Z=-75)","(X=0.5,Y=0.5,Z=1)","(Pitch=0,Yaw=0,Roll=0)",,
+3,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_Katana_S2_Combo02_03_Montage.Frank_RPG_Katana_S2_Combo02_03_Montage',1,,FALSE,30,0,,"(X=0,Y=0,Z=-75)","(X=0.5,Y=0.5,Z=1)","(Pitch=0,Yaw=0,Roll=0)",,
