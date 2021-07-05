@@ -1,2 +1,3 @@
 ,WeaponType,Montage,PlayRatio,LockedLook
-1,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_Katana_Stance1_Equip_Montage.Frank_RPG_Katana_Stance1_Equip_Montage',2,TRUE
+1,OneHand,AnimMontage'/Game/Animation/Montages/OneHand/Frank_RPG_Assassin_Equip_Montage.Frank_RPG_Assassin_Equip_Montage',1,TRUE
+2,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_Katana_Stance1_Equip_Montage.Frank_RPG_Katana_Stance1_Equip_Montage',2,TRUE
