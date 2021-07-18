@@ -1,0 +1,3 @@
+,Type,Montage,PlayRatio,StartSectionName,CanMove,Attack,Stop,Effect,EffectLocation,EffectScale,EffectRotation,CameraShake,SoundCue
+1,OneHand,AnimMontage'/Game/Animation/Montages/OneHand/Attack1.Attack1',1,,FALSE,19,0,,"(X=0,Y=0,Z=-75)","(X=0.5,Y=0.5,Z=1)","(Pitch=0,Yaw=0,Roll=0)",,
+2,TwoHand,AnimMontage'/Game/Animation/Montages/TwoHand/Frank_RPG_2Hand_AirBreak.Frank_RPG_2Hand_AirBreak',1.3,,FALSE,19,0,,"(X=0,Y=0,Z=-75)","(X=0.5,Y=0.5,Z=1)","(Pitch=0,Yaw=0,Roll=0)",,
